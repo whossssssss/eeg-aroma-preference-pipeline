@@ -97,8 +97,8 @@ MIN_SAMPLE_SIZE = 15  # Minimum observations per mediation path
 # 9. LMM Interaction Analysis
 # =============================================================================
 LMM_FILE_PATHS = {
-    "Delta (1-4 Hz)": r"path/to/xlsx",
-    "Gamma (30-50 Hz)": r"path/to/xlsx",
+    "Delta (0.5-4 Hz)": r"path/to/xlsx",
+    "Gamma (25-50 Hz)": r"path/to/xlsx",
     "Beta (15-25 Hz)": r"path/to/xlsx",
 }
 LMM_TARGET_REGIONS = ["LF", "MC", "LP", "MP", "RP", "LT", "RT"]
