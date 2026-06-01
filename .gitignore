@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Raw EEG data and large outputs
+*.set
+*.fdt
+*.edf
+*.gdf
+*.mat
+*.asc
+*.nii
+*.nii.gz
+
+# Tables and generated results
+*.xlsx
+*.csv
+*.png
+*.pdf
+
+# Local folders
+data/
+output/
+results/
+mne_cache/

@@ -1,0 +1,26 @@
+# =============================================================
+# EEG Source Localization & Mediation Analysis Pipeline
+# =============================================================
+# Install all dependencies:  pip install -r requirements.txt
+# =============================================================
+
+# --- Core EEG processing ---
+mne>=1.6
+nibabel>=5.0
+nilearn>=0.10
+
+# --- Numerical & data handling ---
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# --- Statistical analysis ---
+pingouin>=0.5.3
+statsmodels>=0.14
+
+# --- Visualization ---
+matplotlib>=3.7
+seaborn>=0.12
+
+# --- Excel I/O backend ---
+openpyxl>=3.1
