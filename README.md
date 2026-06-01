@@ -306,7 +306,7 @@ If this repository is referenced in academic work, it may be cited as:
 
 ```text
 Shi H. EEG source localization and mediation analysis pipeline for olfactory EEG data. GitHub repository, 2026.
-Available at: https://github.com/USER/eeg-aroma-preference-pipeline
+Available at: https://github.com/whossssssss/eeg-aroma-preference-pipeline
 ```
 
 ---
