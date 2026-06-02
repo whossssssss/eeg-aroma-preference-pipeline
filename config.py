@@ -5,7 +5,7 @@ Centralized configuration for the EEG-to-Source-Localization pipeline.
 All user-configurable paths, parameters, and constants are defined here.
 Modify this file to adapt the pipeline to your local environment.
 
-Directory layout (auto-created)::
+Directory layout::
 
     SHN/                        # PROJECT_ROOT (where this config.py lives)
     ├── data/
